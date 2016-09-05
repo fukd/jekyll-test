@@ -1,0 +1,12 @@
+---
+layout: blog
+---
+
+<h1>Uncategorized</h1>
+
+<ul>
+	{% for blogpost in site.categories.uncategorized %}
+	<li><a href="{{site.baseurl}}{{blogpost.url}}">{{blogpost.title}}</a></li>
+	<p>{{blogpost.meta}}</p>
+	{% endfor %}
+</ul>

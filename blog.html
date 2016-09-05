@@ -1,0 +1,12 @@
+---
+layout: blog
+---
+
+<h1>Technology</h1>
+
+<ul>
+	{% for blogpost in site.categories.technology %}
+	<li><a href="{{site.baseurl}}{{blogpost.url}}">{{blogpost.title}}</a></li>
+	<p>{{blogpost.meta}}</p>
+	{% endfor %}
+</ul>

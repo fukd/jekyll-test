@@ -1,0 +1,464 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"list-sty",
+				"list-style-type"
+			],
+			[
+				"D",
+				"DjangoWhiteNoise"
+			],
+			[
+				"cl",
+				"client"
+			],
+			[
+				"o",
+				"objects"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"jq",
+				"jquery.smartmenus.min.js"
+			],
+			[
+				"backg",
+				"background"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"backgro",
+				"background-repeat"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"p",
+				"pipe"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"css",
+				"bootstrap-theme.min.css"
+			],
+			[
+				"tex",
+				"text-transform"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"border-ra",
+				"border-radius"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"border",
+				"border-bottom-left-radius"
+			],
+			[
+				"border-b",
+				"border-bottom-right-radius"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"bra",
+				"border-radius"
+			],
+			[
+				"bur",
+				"burger 2.png\tw:128 h:128"
+			],
+			[
+				"backr",
+				"background"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 129.0,
+		"last_filter": "install pa",
+		"selected_items":
+		[
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"snippet",
+				"Snippet: html"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 529.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/Axel/Documents/Webdesign/Projects/jekyll-test",
+		"/Users/Axel/Documents/Webdesign/Projects/jekyll-test/_includes",
+		"/Users/Axel/Documents/Webdesign/Projects/jekyll-test/_layouts",
+		"/Users/Axel/Documents/Webdesign/Projects/jekyll-test/_posts",
+		"/Users/Axel/Documents/Webdesign/Projects/jekyll-test/_posts/technology",
+		"/Users/Axel/Documents/Webdesign/Projects/jekyll-test/_posts/uncategorized"
+	],
+	"file_history":
+	[
+		"/Users/Axel/Documents/Webdesign/Projects/jekyll-test/_layouts/blog-article.html",
+		"/Users/Axel/Documents/Webdesign/Projects/jekyll-test/uncategorized.html",
+		"/Users/Axel/Documents/Webdesign/Projects/jekyll-test/_layouts/default.html",
+		"/Users/Axel/Documents/Webdesign/Projects/jekyll-test/_posts/uncategorized/2016-08-31-this-is-a-test-3.md",
+		"/Users/Axel/Documents/Webdesign/Projects/jekyll-test/_posts/uncategorized/2015-08-31-this-is-a-test-2.md",
+		"/Users/Axel/Documents/Webdesign/Projects/jekyll-test/_posts/uncategorized/2014-08-31-this-is-a-test-1.md",
+		"/Users/Axel/Documents/Webdesign/Projects/jekyll-test/_posts/technology/2016-08-31-technology-3.md",
+		"/Users/Axel/Documents/Webdesign/Projects/jekyll-test/_includes/nav.html",
+		"/Users/Axel/Documents/Webdesign/Projects/jekyll-test/blog.html",
+		"/Users/Axel/Documents/Webdesign/Projects/jekyll-test/_posts/technology/2015-08-31-technology-2.md",
+		"/Users/Axel/Documents/Webdesign/Projects/jekyll-test/_posts/technology/2014-08-31-technology-1.md",
+		"/Users/Axel/Documents/Webdesign/Projects/jekyll-test/_layouts/blog.html",
+		"/Users/Axel/Documents/Webdesign/Projects/jekyll-test/newblogpost.html",
+		"/Users/Axel/Documents/Webdesign/Projects/jekyll-test/css/common.css",
+		"/Users/Axel/Documents/Webdesign/Projects/jekyll-test/_posts/uncatogorized/2016-08-31-this-is-a-test-3.md",
+		"/Users/Axel/Documents/Webdesign/Projects/jekyll-test/_posts/uncatogorized/2015-08-31-this-is-a-test-2.md",
+		"/Users/Axel/Documents/Webdesign/Projects/jekyll-test/_posts/uncatogorized/2014-08-31-this-is-a-test-1.md",
+		"/Users/Axel/Documents/Webdesign/Projects/jekyll-test/_posts/2014-08-31-this-is-a-test-1.md",
+		"/Users/Axel/Documents/Webdesign/Projects/jekyll-test/_posts/2015-08-31-this-is-a-test-2.md",
+		"/Users/Axel/Documents/Webdesign/Projects/jekyll-test/_posts/2016-08-31-this-is-a-test-3.md",
+		"/Users/Axel/Documents/Webdesign/Projects/jekyll-test/_post/2016-08-31-this-is-a-test.md",
+		"/Users/Axel/Documents/Webdesign/Projects/jekyll-test/index.html",
+		"/Users/Axel/Documents/Webdesign/Projects/jekyll-test/news.html",
+		"/Users/Axel/Documents/Webdesign/Projects/jekyll-test/_config.yml",
+		"/Users/Axel/Documents/Webdesign/Projects/jekyll-test/.gitignore",
+		"/Users/Axel/Documents/Webdesign/Resources/grav-admin-v1.1.3/grav-admin/index.php",
+		"/Users/Axel/Documents/Music I should listen to",
+		"/Users/Axel/Library/Application Support/Google/Chrome/Default/Extensions/dbepggeogbaibhgnhhndojpepiihcmeb/1.56_0/content_scripts/vimium.css",
+		"/Users/Axel/Library/Application Support/Google/Chrome/Default/Extensions/dbepggeogbaibhgnhhndojpepiihcmeb/1.56_0/content_scripts/backup-vimium.css",
+		"/Users/Axel/Library/Application Support/Google/Chrome/Default/Extensions/dbepggeogbaibhgnhhndojpepiihcmeb/1.56_0/pages/hud.html",
+		"/Users/Axel/Library/Application Support/Google/Chrome/Default/Extensions/dbepggeogbaibhgnhhndojpepiihcmeb/1.56_0/content_scripts/v",
+		"/Users/Axel/Library/Application Support/Google/Chrome/Default/Extensions/dbepggeogbaibhgnhhndojpepiihcmeb/1.56_0/pages/options.css",
+		"/Users/Axel/Library/Application Support/Google/Chrome/Default/Extensions/dbepggeogbaibhgnhhndojpepiihcmeb/1.56_0/options/options.js",
+		"/Users/Axel/Documents/Webdesign/Projects/myhellowebapp/hellowebapp/wsgi.py",
+		"/Users/Axel/Documents/Webdesign/Projects/myhellowebapp/hellowebapp/settings.py",
+		"/Users/Axel/.ncmpcpp/config",
+		"/usr/include/php/Zend/zend_float.h",
+		"/Users/Axel/Downloads/cli-visualizer-master/README.md",
+		"/Users/Axel/Documents/Webdesign/Projects/myhellowebapp/hellowebapp/settings.pyc",
+		"/Users/Axel/Documents/Webdesign/Projects/myhellowebapp/hellowebapp/urls.py",
+		"/Users/Axel/Documents/Webdesign/Projects/myhellowebapp/collection/views.py",
+		"/Users/Axel/Documents/Webdesign/Projects/myhellowebapp/collection/templates/base.html",
+		"/Users/Axel/Documents/Webdesign/Projects/myhellowebapp/requirements.txt",
+		"/Users/Axel/Documents/Webdesign/Projects/myhellowebapp/Procfile",
+		"/Users/Axel/Documents/Webdesign/Projects/myhellowebapp/collection/tests.py",
+		"/Users/Axel/Documents/Webdesign/Projects/myhellowebapp/collection/static/css/style.css",
+		"/Users/Axel/Documents/Webdesign/Projects/myhellowebapp/collection/templates/search/search.html",
+		"/Users/Axel/Documents/Webdesign/Projects/myhellowebapp/collection/templates/404.html",
+		"/Users/Axel/Documents/Webdesign/Projects/myhellowebapp/collection/templates/500.html",
+		"/Users/Axel/Documents/Webdesign/Projects/myhellowebapp/collection/templates/things/thing_detail.html",
+		"/Users/Axel/Documents/Webdesign/Projects/myhellowebapp/collection/apps.py",
+		"/Users/Axel/Documents/Webdesign/Projects/myhellowebapp/collection/templates/things/edit_thing.html",
+		"/Users/Axel/Documents/Webdesign/Projects/myhellowebapp/collection/models.py",
+		"/Users/Axel/Documents/Webdesign/Projects/myhellowebapp/collection/forms.py",
+		"/Users/Axel/Documents/Webdesign/Projects/myhellowebapp/collection/templates/contact.html",
+		"/Users/Axel/Documents/Webdesign/Projects/myhellowebapp/collection/templates/about.html",
+		"/Users/Axel/Documents/Webdesign/Projects/myhellowebapp/collection/templates/index.html",
+		"/Users/Axel/Documents/Webdesign/Projects/myhellowebapp/collection/templates/registration/login.html",
+		"/Users/Axel/Documents/Webdesign/Projects/myhellowebapp/venv/lib/python2.7/site-packages/registration/admin.py",
+		"/Users/Axel/Documents/Webdesign/Projects/myhellowebapp/collection/templates/registration/registration_form.html",
+		"/Users/Axel/Documents/Webdesign/Projects/myhellowebapp/collection/templates/registration/registration_complete.html",
+		"/Users/Axel/Documents/Webdesign/Projects/myhellowebapp/collection/templates/registration/logout.html",
+		"/Users/Axel/Documents/Webdesign/Projects/myhellowebapp/collection/admin.py",
+		"/Users/Axel/Documents/Webdesign/Projects/myhellowebapp/collection/templates/layouts/base.html",
+		"/Users/Axel/Documents/Webdesign/Projects/myhellowebapp/manage.py",
+		"/Users/Axel/Documents/Webdesign/Project/BT/app/styles/main.css",
+		"/Users/Axel/Documents/Webdesign/Project/BT/app/index.html",
+		"/Users/Axel/Documents/Webdesign/Project/Blomstertorget/index.html",
+		"/Users/Axel/Documents/Webdesign/Project/BT/app/scripts/jquery.min.js",
+		"/Users/Axel/Documents/Webdesign/Project/test/app/styles/main.scss",
+		"/Users/Axel/Documents/Webdesign/Project/test/app/index.html",
+		"/Users/Axel/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/Axel/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/Axel/Documents/Webdesign/Project/test/index.html",
+		"/Users/Axel/Documents/Webdesign/Project/sass-test/index.html",
+		"/Users/Axel/Documents/Webdesign/Project/sass-test/styles/main.css",
+		"/Users/Axel/Documents/Webdesign/Project/sass-test/gulpfile.js",
+		"/Users/Axel/Documents/Webdesign/Project/sass-test/styles/main",
+		"/Users/Axel/Documents/Webdesign/Project/test/app/styles/main.css",
+		"/Users/Axel/Documents/Webdesign/Project/test/dist/index.html",
+		"/Users/Axel/Documents/Webdesign/Project/test_yo/gulpfile.js",
+		"/Users/Axel/Documents/Webdesign/Project/Stångebro gatukök/css/site.css",
+		"/Users/Axel/Documents/Webdesign/Project/Stångebro gatukök/index.html",
+		"/Users/Axel/Documents/Webdesign/Project/sample/package.json",
+		"/Users/Axel/Documents/Webdesign/Project/sample/gulpfile.js",
+		"/Users/Axel/Documents/Webdesign/Project/sample/app/scss/style.scss",
+		"/Users/Axel/Documents/Webdesign/Project/sample/app/css/style.css",
+		"/Users/Axel/Documents/Webdesign/Project/sample/app/scss/style.css",
+		"/Users/Axel/Documents/Webdesign/Resources/gulp/gulpfile.js",
+		"/Users/Axel/Documents/Webdesign/Resources/gulp/package.json",
+		"/Users/Axel/Documents/Webdesign/Resources/gulp/src/second.js",
+		"/Users/Axel/Documents/Webdesign/Resources/gulp/src/first.js",
+		"/Users/Axel/Documents/Webdesign/Project/Blomstertorget/css/bootstrap.css",
+		"/Users/Axel/Documents/Webdesign/Project/Blomstertorget/css/jquery.smartmenus.bootstrap.css",
+		"/Users/Axel/Documents/Webdesign/Project/Blomstertorget/css/sm-core-css.css",
+		"/Users/Axel/Documents/Webdesign/Project/Test_bootstrap/index.html",
+		"/Users/Axel/Downloads/smartmenus-1.0.0/smartmenus-1.0.0/demo/bootstrap-navbar.html",
+		"/Users/Axel/Documents/Webdesign/Project/Blomstertorget/css/site.css",
+		"/Users/Axel/Downloads/smartmenus-1.0.0/smartmenus-1.0.0/demo/index.html",
+		"/Users/Axel/Documents/Webdesign/Project/Stångebro gatukök/site.css",
+		"/Users/Axel/Documents/Webdesign/Project/Test_bootstrap/css/site.css",
+		"/Users/Axel/Downloads/flat.icns-master/flat.icns-master/pngs/sublime text 2.png",
+		"/Users/Axel/Documents/Webdesign/Project/Test_sublime/index.html"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 115.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"rutorrent",
+			"FFF785",
+			"navigation",
+			"<h2",
+			"imgs",
+			"Monoton",
+			"height",
+			"ccc",
+			"height",
+			"active",
+			"imgs",
+			"server",
+			"letter-spac",
+			"letter-space",
+			"letter-spac",
+			"bootstrap",
+			"min-wid",
+			"border-radius",
+			"page.htm",
+			"page.html",
+			"fl",
+			"city",
+			"images",
+			"core"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"navigation-link",
+			"images",
+			"#",
+			"city",
+			"fl",
+			"imgs/erbjudande"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "jekyll.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 169.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
